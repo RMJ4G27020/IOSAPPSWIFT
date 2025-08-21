@@ -1,10 +1,27 @@
-# 🍎 Guía Completa de GitHub Copilot para Desarrollo iOS/SwiftUI
+# �💰 ExpenseTracker Gamificado - Gestor Integral de Gastos y Presupuestos
 
-Una colección comprehensiva de instrucciones, mejores prácticas y ejemplos para maximizar el uso de GitHub Copilot en el desarrollo iOS con SwiftUI, presentada completamente en español.
+Una aplicación iOS completa desarrollada con SwiftUI que combina control financiero personal con elementos de gamificación para motivar el buen manejo del dinero. Este proyecto también sirve como guía completa para maximizar el uso de GitHub Copilot en el desarrollo iOS.
 
-## 🚀 Contenido del Repositorio
+## 🚀 Características Principales
 
-### 📁 Estructura del Proyecto
+### 📱 **Funcionalidades de la App**
+- **📊 Registro Rápido**: Gastos manuales o mediante foto de recibo con OCR
+- **🏷️ Categorización Inteligente**: 10 categorías predefinidas con iconos y colores
+- **📈 Reportes Visuales**: Gráficos claros y estadísticas detalladas
+- **🎯 Sistema de Presupuestos**: Alertas y seguimiento en tiempo real
+- **🏆 Gamificación Completa**: Logros, puntos, niveles y desafíos diarios
+- **📱 Procesamiento OCR**: Extracción automática de datos de recibos
+- **💾 Persistencia**: CoreData para almacenamiento local
+- **🔔 Notificaciones**: Recordatorios y alertas de presupuesto
+
+### 🎮 **Sistema de Gamificación**
+- **Logros Automáticos**: 7+ logros desbloqueables
+- **Sistema de Puntos**: Diferentes recompensas por acciones
+- **Niveles Progresivos**: Calculados dinámicamente
+- **Desafíos Mensuales**: Metas personalizables
+- **Streaks**: Rastreador de días consecutivos
+
+## 📁 Estructura del Proyecto
 ```
 ios/
 ├── .github/
@@ -566,3 +583,7 @@ Agradecimientos especiales a:
 > "La clave para usar Copilot efectivamente no es solo aceptar todas las sugerencias, sino entender cuándo y cómo usarlas para mejorar tu flujo de trabajo."
 
 **¡Happy Coding con GitHub Copilot! 🚀✨**
+=======
+# IOSAPPSWIFT
+IOS GAMAFICACION
+>>>>>>> 7e5f12da9cc8c713612bd9465b695bada3c910e3
